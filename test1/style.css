@@ -1,0 +1,32 @@
+body
+{
+    
+background-image: url("pictures/wood-photo-129722.jpeg");
+}
+h1
+{
+    font-size: 3.0em;
+}
+
+p
+
+{ 
+    font-size: 1.5em;
+}
+
+p
+{
+    text-align: right;
+}
+.flottant
+{
+    flood-opacity: left;
+}
+img{
+    width: 500px;
+    height: 400px;
+}
+p{font-variant: small-caps;}
+p{
+    font-weight:bold ;
+}
